@@ -16,6 +16,6 @@ this is my first HTML webpage created for the ICT Club challenged. The webpage i
 Simply open `ict-club.html` in any web browser to view the webpage.  
 
 ## Student Info 
-- **Name:** Your Name
-- **Student ID:** Your ID (e.g., ICT001)
-- **Department:** Your Department
+- **Name:** Betelhem Alemu
+- **Student ID:** DDU1500958
+- **Department:** Software
